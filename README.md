@@ -1,2 +1,2 @@
 # Project-Landing-Page-TheOdinProject
-This repository is for my first ever landing page | The Odin Project
+This repository is for my first ever landing page | The Odin Project. I will now do a landing page as part of The Odin Project Fundamentals. Here I will start from scratch and only use html and css.
