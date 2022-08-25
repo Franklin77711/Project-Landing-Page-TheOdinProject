@@ -1,2 +1,3 @@
 # Project-Landing-Page-TheOdinProject
-This repository is for my first ever landing page | The Odin Project. I will now do a landing page as part of The Odin Project Fundamentals. Here I will start from scratch and only use html and css.
+This repository is for my first ever landing page | The Odin Project. I will now do a landing page as part of The Odin Project Fundamentals. Here I will start from scratch and only use html and css. -----
+Afer i finished this project I feel like I get to know flexbox better. For my surprise I didn't have to google almost at all or looked at other codes. I did this from the picture that the project give as reference. Also I know its not the best page in the world but its a good first step. 
